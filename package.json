@@ -838,6 +838,13 @@
 												"icon": "arrow-up",
 												"type": "command",
 												"command": "editor.action.marker.prevInFiles"
+											},
+											{
+												"key": "x",
+												"name": "Quick fix",
+												"icon": "lightbulb-autofix",
+												"type": "command",
+												"command": "editor.action.quickFix"
 											}
 										]
 									},
@@ -875,6 +882,13 @@
 										"icon": "arrow-up",
 										"type": "command",
 										"command": "editor.action.marker.prevInFiles"
+									},
+									{
+										"key": "x",
+										"name": "Quick fix",
+										"icon": "lightbulb-autofix",
+										"type": "command",
+										"command": "editor.action.quickFix"
 									}
 								]
 							},
